@@ -1,6 +1,5 @@
 # GoodWillPray
 
-
 GoodWillPray is an app to help people pray.
 
 ## Implementation
@@ -22,6 +21,11 @@ The app has three main areas.
 * **LiFeng Huang ** - *Initial work* - [MDTaps](https://github.com/Renarasup)
 
 If you would like to contribute to this project, please leave me a note!
+
+## Supports
+
+Please contact renarasup@gmail.com if you have any question or suggestion regarding the app.
+
 
 ## License
 
